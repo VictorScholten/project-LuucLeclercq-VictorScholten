@@ -47,7 +47,7 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
-       children:
+      children:
         
        - title: Soortelijke warmte
          children:
