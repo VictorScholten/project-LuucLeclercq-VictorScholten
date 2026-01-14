@@ -51,10 +51,9 @@ project:
         
       - title: Soortelijke warmte
         children:
-          - file: Content/Labs/cwater.ipynb
-          - file: Content/Labs/Verdamping.ipynb        
+          - file: Content/Labs/cwater.ipynb     
           - file: Content/Labs/Warmtecapaciteit.ipynb
-          - file: Content/labs/koelbuis.ipynb
+          - file: Content/Labs/koelbuis.ipynb
 
       - title: Druk
         children:
