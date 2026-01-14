@@ -54,8 +54,13 @@ project:
           - file: Content/Labs/cwater.ipynb
           - file: Content/Labs/Verdamping.ipynb        
           - file: Content/Labs/Warmtecapaciteit.ipynb
+          - file: Content/labs/koelbuis.ipynb
 
       - title: Druk
         children:
           - file: Content/Labs/druksensorijken.ipynb
-          - file: Content/Labs/pV_diagram.ipynb
+
+      - title: faseoverganen
+        children:
+          - file: Content/Labs/waxine.ipynb
+          - file: Content/Labs/Verdamping.ipynb
